@@ -80,6 +80,6 @@ I code because I love turning ideas into systems that actually *work* — and ma
 ## 📬 Let’s Connect
 
 I'm always open to talk about tech, projects, and weird bugs.  
-Join me on [Discord](https://discord.gg/Qm8N7vC4U8) — or reach me through [email](mailto:zedofficialdeveloper@proton.me)
+Join me on [Discord](https://discord.gg/Qm8N7vC4U8) — or reach me through [Email](mailto:zedofficialdeveloper@proton.me)
 
 > "Good code solves a problem. Great code disappears when it works."
